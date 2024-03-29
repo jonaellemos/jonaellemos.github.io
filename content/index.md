@@ -6,5 +6,3 @@ Atualmente sou desenvolvedor Java, atuando como Desenvolvedor Sênior e Tech Lea
 Atuo com os mais diversos frameworks do mercado na linguagem java, com foco exclusivo em Quarkus e Spring e seus workspaces. 
 
 Ultima Atualização 29/03/2024.
-
-Ola mundo novo
