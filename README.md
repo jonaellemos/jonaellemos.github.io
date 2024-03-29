@@ -1,2 +1,1 @@
-# jonaellemos.github.io
-Repositório de Blog Pessoal 
+Blog Pessoal
